@@ -1,4 +1,5 @@
 /**
+ * sumofnumbers practice WOD.
  * Created by William on 9/18/2016.
  */
 
@@ -24,6 +25,7 @@ function sumWhile(nums) {
   return total;
 }
 
+
 console.log(sumWhile(listOfNums));
 
 function sumRecursion(nums) {
@@ -40,3 +42,7 @@ function sumTheSimpleWay(nums) {
 }
 
 console.log(sumTheSimpleWay(listOfNums));
+
+/**
+ * time - 30:35.79 (DNF)
+ */
